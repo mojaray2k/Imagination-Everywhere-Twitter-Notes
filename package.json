@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/mojaray2k/Imagination-Everywhere-Twitter-Notes/issues"
   },
-  "homepage": "https://github.com/mojaray2k/Imagination-Everywhere-Twitter-Notes#readme"
+  "homepage": "https://github.com/mojaray2k/Imagination-Everywhere-Twitter-Notes#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "oauth": "^0.9.15"
+  }
 }
